@@ -1,0 +1,29 @@
+/*
+logo blue: #47589A
+logo black: #3F3F3F
+ */
+
+body{
+  padding: 0 0;
+  margin:0 0;
+  font-family: 'Droid Sans', sans-serif;
+}
+header{
+	width:100%;
+	height:100px;
+	position:relative;
+	border-bottom:1px solid #e7e7e7;
+}
+header .logo{
+	height:70px;
+	margin-top:10px;
+}
+.nav-jalp > li > a{
+	height:100px !important;
+	display:block;
+	line-height:5em;
+	color:#3F3F3F;
+}
+.nav-jalp > li > a:hover{
+	color:#47589A;
+}

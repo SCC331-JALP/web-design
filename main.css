@@ -17,7 +17,9 @@ header .logo{
 .logo-blue{color:#47589A;}
 .logo-green{color:#10A355;}
 .logo-black{color:#3F3F3F;}
-
+.nav-jalp{
+    float:right;
+}
 .nav-jalp > li > a{
 	height:100px !important;
 	display:block;

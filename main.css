@@ -204,7 +204,16 @@ a:hover{
 i.red{
     color:#BC0213;
 }
-.footer{
-    background-color:#F5F5F5;
-    font-weight:bold;
+
+.footer-jalp{
+    padding:2em 0 2em 0;
+    background-color:rgba(0,0,0,.8);
+    color:white;
+}
+.footer-jalp ul{
+    list-style-type:none;
+    padding:0;
+}
+.copyright{
+    font-size:11px;
 }
